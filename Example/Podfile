@@ -5,6 +5,6 @@ platform :ios, '10.0'
 target 'YMSLog_Example' do
   
   pod 'YMSLog', :path => '../'
-  pod 'SSZipArchive', :path => '../../YMS_SSZipArchive'
+  pod 'SSZipArchive', :path => '../YMS_SSZipArchive'
   
 end

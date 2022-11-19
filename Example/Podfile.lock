@@ -1,22 +1,21 @@
 PODS:
   - SSZipArchive (2.2.3)
-  - YMSLog (0.1.0):
-    - SSZipArchive
+  - YMSLog (0.1.0)
 
 DEPENDENCIES:
-  - SSZipArchive (from `../../YMS_SSZipArchive`)
+  - SSZipArchive (from `../YMS_SSZipArchive`)
   - YMSLog (from `../`)
 
 EXTERNAL SOURCES:
   SSZipArchive:
-    :path: "../../YMS_SSZipArchive"
+    :path: "../YMS_SSZipArchive"
   YMSLog:
     :path: "../"
 
 SPEC CHECKSUMS:
   SSZipArchive: 7b3893d9515ad5386c83670dc7d9b1f1cf5a53dd
-  YMSLog: 09a8a349fbb38e50b41775fb0eed8fa034d61ce0
+  YMSLog: ca79627334e0f74492e9cb1c8eb861e006cbf68b
 
-PODFILE CHECKSUM: f743fea43cebef1e8e69b038f1a3ed93c578d5f2
+PODFILE CHECKSUM: a8d10283c87078334cd6a5aa166bd111db6ffc70
 
 COCOAPODS: 1.10.1
