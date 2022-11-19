@@ -1,0 +1,22 @@
+PODS:
+  - SSZipArchive (2.2.3)
+  - YMSLog (0.1.0):
+    - SSZipArchive
+
+DEPENDENCIES:
+  - SSZipArchive (from `../../YMS_SSZipArchive`)
+  - YMSLog (from `../`)
+
+EXTERNAL SOURCES:
+  SSZipArchive:
+    :path: "../../YMS_SSZipArchive"
+  YMSLog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSZipArchive: 7b3893d9515ad5386c83670dc7d9b1f1cf5a53dd
+  YMSLog: 09a8a349fbb38e50b41775fb0eed8fa034d61ce0
+
+PODFILE CHECKSUM: f743fea43cebef1e8e69b038f1a3ed93c578d5f2
+
+COCOAPODS: 1.10.1

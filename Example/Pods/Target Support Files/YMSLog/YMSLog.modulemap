@@ -1,0 +1,6 @@
+framework module YMSLog {
+  umbrella header "YMSLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
